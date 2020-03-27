@@ -1,0 +1,13 @@
+C:\Users\krazz\source\repos\ConsoleTODO\bin\Debug\netcoreapp3.1\ConsoleTODO.exe
+C:\Users\krazz\source\repos\ConsoleTODO\bin\Debug\netcoreapp3.1\ConsoleTODO.deps.json
+C:\Users\krazz\source\repos\ConsoleTODO\bin\Debug\netcoreapp3.1\ConsoleTODO.runtimeconfig.json
+C:\Users\krazz\source\repos\ConsoleTODO\bin\Debug\netcoreapp3.1\ConsoleTODO.runtimeconfig.dev.json
+C:\Users\krazz\source\repos\ConsoleTODO\bin\Debug\netcoreapp3.1\ConsoleTODO.dll
+C:\Users\krazz\source\repos\ConsoleTODO\bin\Debug\netcoreapp3.1\ConsoleTODO.pdb
+C:\Users\krazz\source\repos\ConsoleTODO\obj\Debug\netcoreapp3.1\ConsoleTODO.csprojAssemblyReference.cache
+C:\Users\krazz\source\repos\ConsoleTODO\obj\Debug\netcoreapp3.1\ConsoleTODO.csproj.CoreCompileInputs.cache
+C:\Users\krazz\source\repos\ConsoleTODO\obj\Debug\netcoreapp3.1\ConsoleTODO.AssemblyInfoInputs.cache
+C:\Users\krazz\source\repos\ConsoleTODO\obj\Debug\netcoreapp3.1\ConsoleTODO.AssemblyInfo.cs
+C:\Users\krazz\source\repos\ConsoleTODO\obj\Debug\netcoreapp3.1\ConsoleTODO.dll
+C:\Users\krazz\source\repos\ConsoleTODO\obj\Debug\netcoreapp3.1\ConsoleTODO.pdb
+C:\Users\krazz\source\repos\ConsoleTODO\obj\Debug\netcoreapp3.1\ConsoleTODO.genruntimeconfig.cache
